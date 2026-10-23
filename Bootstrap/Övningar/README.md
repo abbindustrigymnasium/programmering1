@@ -25,8 +25,7 @@
 2. Länka in Bootstrap och ladda om sidan. Vad ändrades?
 3. Lägg allt innehåll i en `<div class="container">`
 4. Gör om knapparna till Bootstrap-knappar med olika färger (`btn btn-primary`, `btn btn-danger` osv.)
-5. Gör om meddelandet till en `alert` som är grön
-6. Gör om tabellen till en Bootstrap-tabell med randiga rader (`table table-striped`)
+5. Gör om tabellen till en Bootstrap-tabell med randiga rader (`table table-striped`)
 
 **HTML-kod att använda:**
 
@@ -37,8 +36,6 @@
 <button>Spara</button>
 <button>Ta bort</button>
 <button>Avbryt</button>
-
-<div>Dina ändringar har sparats!</div>
 
 <table>
   <tr>
