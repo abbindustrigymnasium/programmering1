@@ -127,6 +127,7 @@ Alla ämnen har dedikerade mappar med material, övningar och exempel:
 - Selektorer, box-modellen och layout
 - Flexbox och CSS Grid
 - Responsiv design och media queries
+- CSS-biblioteket Bootstrap
 
 ### 5. **DOM (Document Object Model)**
 
